@@ -2,7 +2,9 @@
 
 > Expanding Cards on JS
 
-### [Demo]()
+### [Demo](http://expanding_cards-ab.surge.sh/)
+
+![screenshot](https://github.com/Belchenkov/expanding_cards/blob/dev/uploads/screen.png)
 
 ### Get started
 
